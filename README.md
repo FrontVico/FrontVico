@@ -1,10 +1,4 @@
-<style>
-  div {
-    align-itens: center;
-    justify-content: center;
-    text-align: center;
-  }
-</style>
+
 
 ## Seja Bem vindo ao FrontVico 🖐️
 
