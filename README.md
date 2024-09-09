@@ -1,3 +1,11 @@
+<style>
+  div {
+    align-itens: center;
+    justify-content: center;
+    text-align: center;
+  }
+</style>
+
 ## Seja Bem vindo ao FrontVico 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__ehovini)
