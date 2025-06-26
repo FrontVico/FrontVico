@@ -1,73 +1,43 @@
-<div align="center">
-  
-![Cyber Banner](https://github.com/FrontVico/FrontVico/blob/main/assets/cyber-banner.gif?raw=true)
+# 👨‍💻 FrontVico
 
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=FrontVico;Full+Stack+Dev;Tech+Enthusiast;Code+Artisan" alt="Typing SVG" />
-</h1>
+Seja muito bem-vindo ao **FrontVico**! 👋  
+Aqui compartilho meus projetos, estudos e as tecnologias que utilizo no meu dia a dia como desenvolvedor front-end.
 
-[![Matrix](https://img.shields.io/badge/Matrix-00F7FF?style=for-the-badge&logo=Matrix&logoColor=white)](https://)
-[![Neon Instagram](https://img.shields.io/badge/Instagram-FF00AA?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Cyber LinkedIn](https://img.shields.io/badge/LinkedIn-00FFD1?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/)
+---
 
-</div>
+## 🌐 Contato
 
-## 🔮 Tech Stack
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu_usuario)
 
-<div align="center">
+---
 
-```mermaid
-graph LR
-    A[Front-End] --> B[React]
-    A --> C[Next.js]
-    A --> D[Three.js]
-    B --> E[Redux]
-    C --> F[SSR]
-    G[Back-End] --> H[Node.js]
-    G --> I[Express]
-    H --> J[WebSockets]
-    K[Database] --> L[MongoDB]
-    K --> M[PostgreSQL]
-    style A fill:#00F7FF,stroke:#333
-    style G fill:#FF00AA,stroke:#333
-    style K fill:#9400D3,stroke:#333
+## 🚀 Tecnologias que uso no dia a dia
 
-<div align="center">
-  
-![Cyber Banner](https://github.com/FrontVico/FrontVico/blob/main/assets/cyber-banner.gif?raw=true)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=FrontVico;Full+Stack+Dev;Tech+Enthusiast;Code+Artisan" alt="Typing SVG" />
-</h1>
-
-[![Matrix](https://img.shields.io/badge/Matrix-00F7FF?style=for-the-badge&logo=Matrix&logoColor=white)](https://)
-[![Neon Instagram](https://img.shields.io/badge/Instagram-FF00AA?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Cyber LinkedIn](https://img.shields.io/badge/LinkedIn-00FFD1?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
-## 🔮 Tech Stack
+---
 
-<div align="center">
+## 📂 Repositórios em destaque
 
-```mermaid
-graph LR
-    A[Front-End] --> B[React]
-    A --> C[Next.js]
-    A --> D[Three.js]
-    B --> E[Redux]
-    C --> F[SSR]
-    G[Back-End] --> H[Node.js]
-    G --> I[Express]
-    H --> J[WebSockets]
-    K[Database] --> L[MongoDB]
-    K --> M[PostgreSQL]
-    style A fill:#00F7FF,stroke:#333
-    style G fill:#FF00AA,stroke:#333
-    style K fill:#9400D3,stroke:#333
+🔹 [Projeto 1 - Nome do Projeto](https://github.com/seu_usuario/projeto1)  
+🔹 [Projeto 2 - Nome do Projeto](https://github.com/seu_usuario/projeto2)
 
-https://github-readme-stats.vercel.app/api?username=FrontVico&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=00F7FF&bg_color=0d1117&title_color=00F7FF&icon_color=FF00AA
+---
 
-https://streak-stats.demolab.com?user=FrontVico&theme=radical&border_radius=5&date_format=j%2520M%255B%2520Y%255D&background=0D1117&stroke=00F7FF&ring=FF00AA&fire=FF00AA&currStreakNum=00F7FF&sideNums=00F7FF&currStreakLabel=00F7FF&sideLabels=00F7FF
+## 💡 Sobre mim
 
-<table> <tr> <td width="50%"> <h3 align="center">Project 1</h3> <div align="center"> <img src="https://github.com/FrontVico/FrontVico/blob/main/assets/project1.gif?raw=true" width="400"/> <p> <a href="#"> <img src="https://img.shields.io/badge/CODE-00F7FF?style=for-the-badge&logo=github&logoColor=black"/> </a> <a href="#"> <img src="https://img.shields.io/badge/LIVE-FF00AA?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p> </div> </td> <td width="50%"> <h3 align="center">Project 2</h3> <div align="center"> <img src="https://github.com/FrontVico/FrontVico/blob/main/assets/project2.gif?raw=true" width="400"/> <p> <a href="#"> <img src="https://img.shields.io/badge/CODE-00F7FF?style=for-the-badge&logo=github&logoColor=black"/> </a> <a href="#"> <img src="https://img.shields.io/badge/LIVE-FF00AA?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p> </div> </td> </tr> </table>
+Sou um entusiasta do desenvolvimento web com foco em interfaces modernas, acessíveis e responsivas. Sempre aprendendo, sempre evoluindo!
+
+---
+
+> Feito com ❤️ por [FrontVico](https://github.com/seu_usuario)
+
