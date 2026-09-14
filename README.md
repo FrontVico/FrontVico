@@ -1,4 +1,4 @@
-# FrontVico 💻🚀
+# FrontVico
 
 <div>
   
@@ -7,7 +7,7 @@
 
 </div>
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
 
@@ -19,7 +19,7 @@
 
 </div>
 
-## 🌟 Sobre Mim
+## Sobre Mim
 
 ```javascript
 const developer = {
